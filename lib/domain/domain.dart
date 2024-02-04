@@ -1,2 +1,3 @@
-export 'usecase/data_users_usecase.dart';
+export 'usecase/catalog_usecase.dart';
 export 'repositories/repositories.dart';
+export 'usecase/product_usecase.dart';
